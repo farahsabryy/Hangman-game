@@ -26,4 +26,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## Author
 Created by [Farah Sabry](https://github.com/farahsabryy/).
+[Mohamed Ashraf]
 
